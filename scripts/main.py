@@ -1,3 +1,4 @@
+# GENERA ALEATORIAMENTE LAS PALABARAS. EDITOR: DESDE MI PUNTO DE VISTA TOMAREMOS PALABRAS DE OTROS IDIOMAS, POR LO QUE EN UN FUTURO PROBABLEMENTE SEA ELIMINADO.
 import random
 
 Isolated = ["S","K","M","L","N","H","Y","E","W","I","O","A","T","D","R","Q","G","\""] # Letters at the beginning of words
